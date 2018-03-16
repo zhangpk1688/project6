@@ -1,0 +1,19 @@
+{
+  "name": "auto-excute-sql-node",
+  "version": "1.0.0",
+  "description": "node.js自动初始化数据库",
+  "main": "index.js",
+  "scripts": {
+    "init_sql": "node index.js",
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zyy1688/auto-excute-sql-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zyy1688/auto-excute-sql-node/issues"
+  },
+  "homepage": "https://github.com/zyy1688/auto-excute-sql-node#readme"
+}
